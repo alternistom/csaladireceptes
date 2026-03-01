@@ -26,6 +26,6 @@
 8. Letakarjuk konyharuhával és 5 percig nyugalmi állapotban hagyjuk
 9. Előkészítjük a sűtőpapíros tepsit, erre kerülnek rá majd a megformázott kiflik
 10. Kifli megformázása: https://www.youtube.com/embed/mOeWcahtcWw?si=0nf4suHtK9BipSQ5
-11. Letakajuk konyharuhával a tepsit és 30 percig kelesztjük a kifliket, közben 200 fokra melegítjük a sütőt
+11. Letakajuk konyharuhával a tepsit és 30 percig kelesztjük a kifliket, közben 200°C fokra melegítjük a sütőt
 12. Megspricceljük, ha akarunk rakunk rá sajtot vagy magokat
 13. Kb 18-20 perc a sütési idő

@@ -1,5 +1,5 @@
 ---
-icon: lucide/rocket
+icon: material/baguette
 ---
 
-# HELLO
+# Hello World
