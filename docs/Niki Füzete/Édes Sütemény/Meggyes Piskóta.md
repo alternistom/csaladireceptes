@@ -7,6 +7,7 @@
 - 2 dl olaj
 - 50 dkg meggy
 
+## Elkészítés
 1. A tojássárgáját a vízzel habosra keverjük
 2. Hozzáadjuk az olajat
 3. Beleforgatjuk a sűtőporos lisztet

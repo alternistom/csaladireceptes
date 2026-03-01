@@ -13,6 +13,7 @@
 
 Tojássárgájával kenjük meg
 
+## Elkészítés
 1. A lisztből 330-340 g-ot margarinnal elmorzsolunk, hozzáadjuk a cukrot, sűtőport, fehéjat, sót
 2. A liszt közepébe mélyedést készítünk, ebbe kerül a tojás, citromhéj, mandula és a tejföl
 3. Összedolgozzuk és lisztet adunk hozzá fokozatosan, lágy, de nem ragacsos tészta lesz
