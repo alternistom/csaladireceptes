@@ -7,6 +7,7 @@
 - 1 nagy tábla Party csoki
 - 1-2 tk vanília aroma vagy 1 csomag vaníliás cukor
 
+## Elkészítés
 1. A lisztet, sűtőport, és a felkockázott étcsokit egy tálba előre összekeverjük
 2. A cukrot a margarinnal habosra verjük
 3. Beleütjük a 2 tojást a margarinhoz és hozzáöntjük a vanília aromát
