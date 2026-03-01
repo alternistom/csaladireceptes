@@ -19,6 +19,7 @@
 - 1/4 csésze + 1/4 csésze tejszín
 - 1 1/2 tk vanília aroma
 
+## Elkészítés
 1. Szétválasztjuk a tojásokat és a fehérjét 1/2 csésze cukorral habbá verjük
 2. Egy nagyobb edényben 1 csésze cukrot a liszttel, sóval, szódabikarbónával és kakaóval összekeverünk
 3. Hozzáadjuk az olajat, tejet és a 2 tojás sárgáját is és összekeverjük

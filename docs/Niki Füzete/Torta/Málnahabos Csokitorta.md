@@ -11,6 +11,7 @@
 - 15-20 dkg fagyasztott málna
 - 1 ek cukor
 
+## Elkészítés
 1. A csokoládét gőz fölött felolvasztjuk
 2. A tojást robotgéppel habos, levegős krémmé verjük a cukorral. Kb 5-8 perc
 3. Hozzáadjuk a csokit, a vaníliát, a darált magot is

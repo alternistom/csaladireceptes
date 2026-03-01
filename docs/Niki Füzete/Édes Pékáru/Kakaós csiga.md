@@ -14,6 +14,7 @@
 
 1 tojással kenjük a tetejüket
 
+## Elkészítés
 1. Az élesztőt cukros langyos tejbe morzsoljuk
 2. A felolvasztott margarint a sóval, cukorral és a tojással az élesztőhöz adjuk
 3. A liszthez adjuk hozzá a fenti masszát. Keverjük, összedolgozzuk, majd dagasztjuk, míg lágy tésztát kapunk.
