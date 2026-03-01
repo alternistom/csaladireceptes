@@ -1,7 +1,7 @@
 ![Alt text](NemetZsemle1.jpg)
 ![Alt text](NemetZsemle2.jpg)
 
-# ▶ Előtészta (poolish)
+## ▶ Előtészta (poolish)
 |  |  |
 |----------|----------|
 |**130 g**|BL-55 liszt|
