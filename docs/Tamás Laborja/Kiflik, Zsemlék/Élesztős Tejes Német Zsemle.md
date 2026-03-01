@@ -12,7 +12,7 @@
 ## ▶ Főtészta
 |  |  |
 |----------|----------|
-|**az egész**|Főtészta|
+|**az egész**|Előtészta|
 |**305 g**|BL-55 liszt|
 |**70 g**|~30-40°C fokos víz|
 |**100 g**|szobameleg tej|
