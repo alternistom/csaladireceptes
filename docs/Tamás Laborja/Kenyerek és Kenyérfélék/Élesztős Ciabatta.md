@@ -48,7 +48,7 @@
 16. Készítsünk elő egy sűtőpapírt ami nagyobb mint a tészta felülete és lisztezzük meg bőségesen
 17. Vágjuk a tésztát két egyenlő részre ás rakjuk át a sűtőpapírra
 18. Takarjuk le és hagyjuk pihenni `30 percre` szobahőmérsékleten
-19. Alul felül módon `260 fokra` hevítsük a sűtőt
+19. Alul felül módon `260°C fokra` hevítsük a sűtőt
 20. Vegyük vissza a tészta behelyezésekkor `230 fokra` és süssük `25-27 percig` amíg aranybarna héjat nem kapunk
 
 Forrás:  
