@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+dist/
+site/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Visual Studio
+.vs/
+*.user
