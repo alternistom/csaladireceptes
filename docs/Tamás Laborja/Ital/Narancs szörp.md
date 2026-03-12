@@ -15,3 +15,6 @@
 4. Másnap átszűrjük egy tiszta edénybe. Ezeket a finom narancshéjakat is felhasználjuk. Ezért szűrtük le a narancslevet, hogy itt a célegyenesben fel tudjuk használni a héjakat is. Egy kis tálkába cukrot szórunk. A szárazra lecsöpögött héjakat belepakoljuk felváltva újabb cukor rétegekkel. A tetejére is szórjunk cukrot. Így hagyjuk pár napig szikkadni.
 5. Előkészítünk `1 literhez` elegendő sterilizált, tiszta üvegeket. A leszűrt szörpöt `5 percig` forraljuk. Szedjük egy kancsóba és egy tölcsér segítségével töltsük meg az üvegeket. Zárjuk le szorosan és mehetnek is a dunsztba. Először fejjel lefelé, hogy a forró folyadék a tetején rekedt levegőt és kupakot is sterilizálja. Majd `5 perc` elteltével egy konyharuha segítségével fordítsuk át és így hagyjuk `2 nap` alatt kihűlni.
 6. A kopogósra száradt narancshéjakat tárolhatjuk így is, de egy késes robotgép segítségével is finomra apríthatjuk. Először pulzálva, majd folyamatosan aprítva. Így felhasználhatjuk az összes sütibe és krémbe, italba ami narancshéjat ír. Jól záródó üvegben `1 évig` eltartható.
+
+Forrás:
+https://www.youtube.com/watch?v=YWS4We7mK74
