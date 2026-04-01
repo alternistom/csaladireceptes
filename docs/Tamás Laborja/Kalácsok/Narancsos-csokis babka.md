@@ -8,6 +8,7 @@
 |**28g**|cukor|
 |**28g**|vaj|
 |**fél**|tojás|
+|**80ml**|tej|
 |**1 cs**|vanilíás cukor|
 
 ## ▶ Naracsos-kakaós tészta hozzávalói
@@ -20,6 +21,7 @@
 |**33g**|cukor|
 |**28g**|vaj|
 |**fél**|tojás|
+|**80ml**|tej|
 |**2 tk**|narancshéj|
 |**4 tk**|holland kakaópor|
 
