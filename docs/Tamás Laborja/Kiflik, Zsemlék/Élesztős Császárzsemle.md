@@ -27,7 +27,7 @@
     ![Alt text](csaszarzsemle.gif)
 14. Takarjuk le konyharuhávan és hagyjuk `~35 percig` kelni őket,
 15. Alul felül `200 fokra` párásítós módra felmelegítjük
-16. Bespricceljük alaposan a zsemléket, mehet rá mák, len, szezámmag
+16. Bespricceljük alaposan a zsemléket (esetleg előtte bekenhetjük őket tejjel), mehet rá mák, len, szezámmag
 17. Majd mielőtt berakjuk sütni még egy picit megspricceljük ha beszívta volna azóta
 18. `~20 percig` sütjük
 
