@@ -21,7 +21,7 @@
 6. Takarjuk le és hagyjuk pihenni `30 percet`
 7. Hajtogassuk meg az ismételten ahogy az 5. lépésben
 8. Kenjük ki a sűtőpapíros tepsit gazdagon oliva olajjal
-9. Óvatosan rakjuk a tésztát a tepsibe és próbáljuk meg szétteríteni, nem baj ha nem megy teljesen, a következő pihentetésig fog még lazulni
+9. Óvatosan rakjuk a tésztát egy SŰTŐPAPÍROS tepsibe és próbáljuk meg szétteríteni, nem baj ha nem megy teljesen, a következő pihentetésig fog még lazulni
 10. Takarjuk le és hagyjuk pihenni `30 percet`
 11. Melegítsük elő a sűtőt `230 fokra`
 12. Ujjainkkal nyomkodjuk be a tésztát, bátran, amíg nem érezzük a tepsi alját
