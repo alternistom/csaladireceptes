@@ -41,13 +41,5 @@
 ## ▶ Hajtogatás és formázás
 
 ![Alt text](r1.jpg)
-![Alt text](r2.jpg)
-![Alt text](r3.jpg)
-![Alt text](r4.jpg)
-![Alt text](r5.jpg)
-![Alt text](r6.jpg)
-![Alt text](r7.jpg)
-![Alt text](r8.jpg)
 Süssük 180°C-on 20-25 percig
 Majd kenjük le a szíruppal
-![Alt text](r9.jpg)
