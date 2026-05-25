@@ -44,5 +44,7 @@
 ![Alt text](r2.jpg)
 ![Alt text](r3.jpg)
 ![Alt text](r4.jpg)
-Süssük 180°C-on 20-25 percig
-Majd kenjük le a szíruppal
+1. Helyezzük a tepsire, majd kenjük le tojással és hagyjuk kelni kb 60-90 percet
+2. Amíg a tészta pihen forraljuk össze a vízet a cukorral és hagyjuk 5 percig rottyanni, majd hagyjuk kihülni
+3. Süssük 180°C-on 20-25 percig
+4. Majd kenjük le a szíruppal
