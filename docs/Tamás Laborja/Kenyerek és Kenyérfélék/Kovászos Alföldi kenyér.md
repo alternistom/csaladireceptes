@@ -30,9 +30,9 @@
 | `10 g`   | `vaj`      |
 | `1 kicsi`   | `olíva vagy más olaj`      |
 
-1. `100 ml` `langyos vízet` egy kis tálban elkeverünk a `15 g` `sóval`
+1. `25 ml` `langyos vízet` egy kis tálban elkeverünk a `15 g` `sóval`
 2. A `kovászból` kimentés, bővebben a recept alatt
-3. A `dagasztó edénybe` beleöntjük a `300 ml` `langyos vízet` és elkeverjük benne a `150 g` `kovászt`
+3. A `dagasztó edénybe` beleöntjük a `375 ml` `langyos vízet` és elkeverjük benne a `150 g` `kovászt`
 4. Majd az `1 kk` `mézet` is elkeverjük benne
 5. Hozzászitáljuk a `600 g` `lisztet` és elkezdjük összedagasztani addig amíg az összes `lisztet` felveszi
 6. Konyharuhával letakarjuk és **30 percet** hagyjuk pihenni,

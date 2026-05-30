@@ -36,7 +36,7 @@
 4. Takajuk le és várjuk meg míg kb kétszerese lesz, kb 90 perc
 
 ## ▶ Töltelék elkészítése
-1. Olvasszuk fel a csokit és keverjük bele a hozzávalókat míg egynemű nem lesz
+1. Olvasszuk fel a csokit és keverjük bele a hozzávalókat míg egynemű nem lesz, a vajat meg ezeket ne olvasszuk fel!
 
 ## ▶ Hajtogatás és formázás
 
