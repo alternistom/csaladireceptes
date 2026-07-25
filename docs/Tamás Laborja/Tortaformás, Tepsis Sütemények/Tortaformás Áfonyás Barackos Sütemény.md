@@ -10,7 +10,7 @@
 |**200 g**|BL-55 liszt|
 |**1,5 tk**|sütőpor|
 |**1 csipet**|só|
-|**350 g**|héjazott felvágott sárgabarack|
+|**350 g**|felvágott sárgabarack|
 |**150 g**|áfonya|
 
 ## ▶ Tetejére
